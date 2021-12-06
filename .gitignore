@@ -125,3 +125,8 @@ zeromq-*.tar.gz
 zeromq-*.zip
 core
 
+# My ignores
+bin/
+bin-int/
+bin-cmake/
+*.vcxproj*
