@@ -1,3 +1,7 @@
+# Fork
+
+This is a fork which uses premake to build the project.
+
 # ZeroMQ
 
 [![Build Status](https://github.com/zeromq/libzmq/actions/workflows/CI.yaml/badge.svg)](https://github.com/zeromq/libzmq/actions/workflows/CI.yaml)
